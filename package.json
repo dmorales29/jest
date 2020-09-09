@@ -1,0 +1,14 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Morales",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
